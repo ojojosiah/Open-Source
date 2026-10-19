@@ -1,0 +1,23 @@
+{
+  "app": {
+    "version": "0.1.1",
+    "url": "https://github.com/ojojosiah/Open-Source/releases/latest/download/JoPad.apk",
+    "sizeBytes": null,
+    "updatedAt": null,
+    "notes": "Publish a signed JoPad.apk in the latest GitHub release and change this version for each app release."
+  },
+  "insights": {
+    "version": "2026.10.19",
+    "url": "https://raw.githubusercontent.com/ojojosiah/Open-Source/main/jopad/jopad_insights_data.json",
+    "sizeBytes": null,
+    "updatedAt": null,
+    "notes": "JSON array of objects with category, text, and optional icon keys."
+  },
+  "dictionary": {
+    "version": "2026.10.19",
+    "url": "https://raw.githubusercontent.com/ojojosiah/Open-Source/main/jopad/jopad_dictionary_artiste.json",
+    "sizeBytes": null,
+    "updatedAt": null,
+    "notes": "Offline dictionary JSON database."
+  }
+}
