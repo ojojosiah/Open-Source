@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "0.1.1",
-    "url": "https://github.com/ojojosiah/Open-Source/releases/latest/download/JoPad.apk",
+    "url": "https://github.com/ojojosiah/Open-Source/main/jopad/releases/JoPad.apk",
     "sizeBytes": null,
     "updatedAt": null,
     "notes": "Publish a signed JoPad.apk in the latest GitHub release and change this version for each app release."
